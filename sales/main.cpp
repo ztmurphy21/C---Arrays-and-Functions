@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Three Day Sales Calculation Reporting Tool";
+    cout << "Three Day Sales Calculation Reporting Tool\n";
    double day1, day2, day3, total;
 
    //gen the sales from user per day
